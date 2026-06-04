@@ -1,0 +1,12 @@
+[submodule "apps/qtadmin"]
+	path = apps/qtadmin
+	url = https://github.com/quanttide/qtadmin.git
+[submodule "apps/qtcloud-human"]
+	path = apps/qtcloud-human
+	url = https://github.com/quanttide/qtcloud-human.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/quanttide/quanttide-laboratory-of-human.git
+[submodule "packages/toolkit"]
+	path = packages/toolkit
+	url = https://github.com/quanttide/quanttide-human-toolkit.git
