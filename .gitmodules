@@ -6,7 +6,7 @@
 	url = https://github.com/quanttide/qtcloud-human.git
 [submodule "examples/default"]
 	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-human.git
+	url = https://github.com/quanttide/quanttide-laboratory-of-human-resources.git
 [submodule "packages/toolkit"]
 	path = packages/toolkit
 	url = https://github.com/quanttide/quanttide-human-toolkit.git
