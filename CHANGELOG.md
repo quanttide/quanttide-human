@@ -8,6 +8,19 @@
 
 ---
 
+
+## [0.1.1] - 2026-07-11
+
+### Added
+- 新增 `context` 子模块
+- 新增 `journal` 子模块
+
+### Changed
+- 更新 `journal` 子模块（新增日志条目）
+- 将 `profile`、`roadmap` 子模块迁移至 `data/` 目录
+
+### Removed
+- 从 `profile` 子模块中移除 `config`、`toc`、`workflows` 目录
 ## [Unreleased]
 
 ## [0.1.0] - 2026-06-04
