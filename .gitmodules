@@ -25,3 +25,6 @@
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-human-resources.git
+[submodule "data/insight"]
+	path = data/insight
+	url = https://github.com/quanttide/quanttide-insight-of-human-resources.git
