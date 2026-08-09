@@ -34,3 +34,6 @@
 [submodule "data/intention"]
 	path = data/intention
 	url = https://github.com/quanttide/quanttide-intention-of-human-resources.git
+[submodule "apps/qtrecurit"]
+	path = apps/qtrecurit
+	url = https://github.com/quanttide/qtrecurit.git
