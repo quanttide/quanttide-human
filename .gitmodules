@@ -37,3 +37,6 @@
 [submodule "apps/qtrecurit"]
 	path = apps/qtrecurit
 	url = https://github.com/quanttide/qtrecurit.git
+[submodule "docs/tutorial"]
+	path = docs/tutorial
+	url = https://github.com/quanttide/quanttide-tutorial-of-human-resources.git
