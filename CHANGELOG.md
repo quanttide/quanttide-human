@@ -25,6 +25,7 @@
 
 ### Added
 - 新增 `docs/bylaw` 子模块：人力资源章程（quanttide-bylaw-of-human-resources）
+- 更新 `docs/bylaw` 子模块：新增《量潮招聘考核课题立项评审章程》
 - 新增 `apps/qtadmin` 子模块：量潮管理后台（qtadmin）
 - 新增 `docs/essay` 子模块：人力资源札记（quanttide-essay-of-human-resources）
 - 新增 `data/brochure` 子模块：人力资源宣传册（quanttide-brochure-of-human-resources）
