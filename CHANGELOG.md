@@ -23,6 +23,9 @@
 - 从 `profile` 子模块中移除 `config`、`toc`、`workflows` 目录
 ## [Unreleased]
 
+### Added
+- 新增 `docs/bylaw` 子模块：人力资源章程（quanttide-bylaw-of-human-resources）
+
 ## [0.1.0] - 2026-06-04
 
 ### 新增

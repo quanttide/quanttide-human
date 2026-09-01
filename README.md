@@ -9,6 +9,7 @@ apps/
 ├── qtadmin/        # 管理后台（子模块）
 └── qtcloud-human/  # 人力云应用（子模块，待创建）
 docs/
+├── bylaw/          # 人力资源章程
 ├── roadmap/        # 工作蓝图
 ├── handbook/       # 人力资源手册
 ├── specification/  # 管理标准
