@@ -25,6 +25,13 @@
 
 ### Added
 - 新增 `docs/bylaw` 子模块：人力资源章程（quanttide-bylaw-of-human-resources）
+- 新增 `apps/qtadmin` 子模块：量潮管理后台（qtadmin）
+- 新增 `docs/essay` 子模块：人力资源札记（quanttide-essay-of-human-resources）
+- 新增 `data/brochure` 子模块：人力资源宣传册（quanttide-brochure-of-human-resources）
+- 新增 `data/report` 子模块：人力资源报告（quanttide-report-of-human-resources）
+- 新增 `data/library` 子模块：人力资源参考（quanttide-library-of-human-resources）
+- 新增 `data/history` 子模块：人力资源历史（quanttide-history-of-human-resources）
+- 新增 `data/archive` 子模块：人力资源归档（quanttide-archive-of-human-resources）
 
 ## [0.1.0] - 2026-06-04
 
