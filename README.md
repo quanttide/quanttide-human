@@ -11,7 +11,7 @@ quanttide-human/
 │   ├── qtcloud-human/           # 人力云应用（git submodule）
 │   └── qtrecurit/               # 量潮招聘（git submodule）
 ├── packages/toolkit/            # 人力资源工具箱（git submodule → quanttide-human-toolkit）
-├── examples/default/            # 实验室——实验性/原型项目（git submodule）
+├── examples/quanttide-human-lab/            # 实验室——实验性/原型项目（git submodule）
 ├── data/                        # 数据类资产（git submodule）
 │   ├── context/                 # 人力资源语境
 │   ├── intention/               # 人力资源意图

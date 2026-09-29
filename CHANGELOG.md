@@ -23,6 +23,11 @@
 - 从 `profile` 子模块中移除 `config`、`toc`、`workflows` 目录
 ## [Unreleased]
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-human-lab`（仓 quanttide-laboratory-of-human-resources → quanttide-human-lab）
+
+
 ### Added
 - 新增 `docs/bylaw` 子模块：人力资源章程（quanttide-bylaw-of-human-resources）
 - 更新 `docs/bylaw` 子模块：新增《量潮招聘考核课题立项评审章程》
