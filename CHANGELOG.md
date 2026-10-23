@@ -47,7 +47,7 @@
 - 初始化项目结构（README、LICENSE、CHANGELOG）
 - 新增 `apps/qtadmin` 子模块：管理后台
 - 新增 `examples/default` 子模块：实验室（quanttide-laboratory-of-human-resources）
-- 新增 `packages/toolkit` 子模块：领域共享工具集（quanttide-human-toolkit）
+- 新增 `packages/toolkit` 子模块：领域共享标准库（quanttide-human-toolkit）
 - 新增 `docs/roadmap` 子模块：工作蓝图（quanttide-roadmap-of-human-resources）
 - 新增 `docs/handbook` 子模块：人力资源手册（quanttide-handbook-of-human-resources）
 - 新增 `docs/specification` 子模块：管理标准（quanttide-specification-of-human-resources）
