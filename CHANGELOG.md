@@ -8,6 +8,12 @@
 
 ---
 
+## [Unreleased]
+
+### Removed
+
+- 摘除 `apps/qtrecurit` 挂载：招聘与人事领域解耦，qtrecurit 归量潮联盟（`defaults/quanttide-alliance/apps/qtrecurit`），本领域不再挂载；招聘文档（评估操作手册、AI 初筛三件套）同步归档至联盟归档仓
+
 
 ## [0.1.1] - 2026-07-11
 
