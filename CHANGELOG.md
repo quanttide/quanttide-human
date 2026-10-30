@@ -25,6 +25,7 @@
 
 ### 变更
 
+- `docs/bylaw` 子模块更新：《量潮招聘考核课题立项评审章程》（`recuritment/proposal.md`）迁出至联盟章程仓 `quanttide-bylaw-of-innovation-alliance` 的 `qtrecurit/proposal.md`；招聘事务归联盟主体，源目录 `recuritment/` 保留
 - 实验室子模块改名：`examples/default` → `examples/quanttide-human-lab`（仓 quanttide-laboratory-of-human-resources → quanttide-human-lab）
 
 
